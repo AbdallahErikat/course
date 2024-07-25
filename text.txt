@@ -1,2 +1,6 @@
 abdalah
 erikat
+<<<<<<< HEAD
+=======
+ww
+>>>>>>> b1
